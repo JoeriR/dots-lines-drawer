@@ -1,0 +1,10 @@
+Current features:
+- Add Dots by clicking on the Canvas.
+- Let the DrawingAnimation draw lines to connect the dots.
+- Smooth 60FPS DrawingAnimation!
+- Clear canvas button
+- change the frames it takes to draw the next line for the DrawingAnimation.
+
+Features to add:
+ 1. checkbox to toggle 'connecting last dot to first dot'
+ 2. Exporting the Canvas to .png (with or without dot numbers)
